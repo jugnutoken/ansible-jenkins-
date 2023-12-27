@@ -1,1 +1,25 @@
- <h1>Project: ansible-jenkins </h1>
+ <h1>Project:"End-to-End CI/CD Automation with Jenkins, Ansible, Docker, and GitHub Webhooks on AWS" </h1>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
