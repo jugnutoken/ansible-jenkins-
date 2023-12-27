@@ -23,11 +23,11 @@
 
 <h3>Key usesss:</h3>
 <p>Continuous Integration/Continuous Deployment (CI/CD)
-Jenkins Automation
-Ansible Configuration Management
-Docker Containerization
-GitHub Webhooks
-AWS Cloud Platform</p>
+<p>Jenkins Automation</p>
+<p>Ansible Configuration Management</p>
+<p>Docker Containerization</p>
+<p>GitHub Webhooks</p>
+<p>AWS Cloud Platform</p>
 
 
 
