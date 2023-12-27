@@ -5,7 +5,7 @@
 
 
 <h2>Key Contributions:</h2>
-<p>Jenkins Automation: Engineered a robust automation server setup with Jenkins, streamlining build, test, and deployment processes for increased efficiency in software delivery.</p>
+<h3>Jenkins Automation:<h3> <p>Engineered a robust automation server setup with Jenkins, streamlining build, test, and deployment processes for increased efficiency in software delivery.</p>
 
 
 
