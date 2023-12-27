@@ -22,12 +22,13 @@
 <p>Hosted the entire project on AWS, harnessing the scalability and availability features of cloud computing to ensure the CI/CD pipeline's adaptability to projects of varying complexities.</p>
 
 <h3>Key usesss:</h3>
+<p>AWS Cloud Platform</p>
 <p>Continuous Integration/Continuous Deployment (CI/CD)
 <p>Jenkins Automation</p>
 <p>Ansible Configuration Management</p>
 <p>Docker Containerization</p>
 <p>GitHub Webhooks</p>
-<p>AWS Cloud Platform</p>
+
 
 
 
